@@ -2,7 +2,7 @@
 
 describe('myApp.view2 module', function() {
 
-  beforeEach(module('myApp.view2'));
+  beforeEach(module('myApp.version'));
 
   describe('view2 controller', function(){
 
